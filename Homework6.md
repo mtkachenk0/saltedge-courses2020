@@ -52,6 +52,9 @@ Tell what's the major difference between an Array and a Hash?
 
 # Problem 8
 Suppose you have a hash h = { a:1, b:2, c:3, d:4 }
+1. Get the value of key `:b`.
+2. Add to this hash the key:value pair `{e:5}`
+3. Remove all key:value pairs whose value is less than 3.5
 
 # Problem 9
 Can hash values be arrays? Can you have an array of hashes? (give examples)
